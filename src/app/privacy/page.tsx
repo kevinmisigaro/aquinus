@@ -160,20 +160,20 @@ function Index() {
 
         <ul className="list-inside list-disc mt-3">
           <li>
-            Log and Usage Data. Log and usage data is service-related,
+            Log and Usage Data. Log and usage data is service-related,
             diagnostic, usage, and performance information our servers
             automatically collect when you access or use our Services and which
             we record in log files. Depending on how you interact with us, this
             log data may include your IP address, device information, browser
             type, and settings and information about your activity in the
-            Services (such as the date/time stamps associated with your usage,
+            Services (such as the date/time stamps associated with your usage,
             pages and files viewed, searches, and other actions you take such as
             which features you use), device event information (such as system
-            activity, error reports (sometimes called "crash dumps"), and
+            activity, error reports (sometimes called "crash dumps"), and
             hardware settings).
           </li>
           <li>
-            Device Data. We collect device data such as information about your
+            Device Data. We collect device data such as information about your
             computer, phone, tablet, or other device you use to access the
             Services. Depending on the device used, this device data may include
             information such as your IP address (or proxy server), device and
