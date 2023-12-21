@@ -7,9 +7,7 @@ function Menu({ section }: { section?: string }) {
 
   return (
     <div
-      className={`${
-        section == "privacy" ? "mb-3" : "absolute top-0"
-      } flex flex-row justify-between px-20 py-5 bg-black w-full text-white`}
+      className={`flex flex-row justify-between px-20 py-5 bg-black w-full text-white`}
     >
       <div onClick={() => router.push("/")} className="cursor-pointer">Aquinus Farms</div>
 
