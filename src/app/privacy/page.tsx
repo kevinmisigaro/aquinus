@@ -14,10 +14,11 @@ function Index() {
       <div className="p-5 md:px-20 md:py-6">
         <p className="font-bold">PRIVACY POLICY</p>
         <p className="mt-4">
-          This privacy notice for Kuku Diary Limited("Company," "we," "us," or
-          "our"), describes how and why we might collect, store, use, and/or
-          share ("process") your information when you use our services
-          ("Services"), such as when you:
+          This privacy notice for Kuku Diary Limited(&quot;Company,&ldquo;
+          &quot;we,&ldquo; &quot;us,&ldquo; or &quot;our&ldquo;), describes how
+          and why we might collect, store, use, and/or share
+          (&quot;process&ldquo;) your information when you use our services
+          (&quot;Services&ldquo;), such as when you:
         </p>
 
         <ul className="list-inside list-disc mt-3">
@@ -93,8 +94,8 @@ function Index() {
           provide you with the option to register with us using your existing
           social media account details, like your Facebook, Twitter, or other
           social media account. If you choose to register in this way, we will
-          collect the information described in the section called "HOW DO WE
-          HANDLE YOUR SOCIAL LOGINS?" below.
+          collect the information described in the section called &quot;HOW DO
+          WE HANDLE YOUR SOCIAL LOGINS?&ldquo; below.
         </p>
 
         <p>
@@ -105,16 +106,16 @@ function Index() {
         <ul className="list-inside list-disc mt-3">
           <li>
             Mobile Device Access. We may request access or permission to certain
-            features from your mobile device, including your mobile device's
-            calendar, reminders, sms messages, storage, and other features. If
-            you wish to change our access or permissions, you may do so in your
-            device's settings.
+            features from your mobile device, including your mobile
+            device&ldquo;s calendar, reminders, sms messages, storage, and other
+            features. If you wish to change our access or permissions, you may
+            do so in your device&ldquo;s settings.
           </li>
           <li>
             Push Notifications. We may request to send you push notifications
             regarding your account or certain features of the application(s). If
             you wish to opt out from receiving these types of communications,
-            you may turn them off in your device's settings.
+            you may turn them off in your device&ldquo;s settings.
           </li>
         </ul>
 
@@ -169,8 +170,8 @@ function Index() {
             Services (such as the date/time stamps associated with your usage,
             pages and files viewed, searches, and other actions you take such as
             which features you use), device event information (such as system
-            activity, error reports (sometimes called "crash dumps"), and
-            hardware settings).
+            activity, error reports (sometimes called &quot;crash dumps&ldquo;),
+            and hardware settings).
           </li>
           <li>
             Device Data. We collect device data such as information about your
