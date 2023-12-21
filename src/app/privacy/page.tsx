@@ -334,9 +334,9 @@ function Index() {
           6. HOW LONG DO WE KEEP YOUR INFORMATION?
         </p>
         <p className="mt-3">
-          In Short: We keep your information for as long as necessary
-          to fulfill the purposes outlined in this privacy notice unless
-          otherwise required by law.
+          In Short: We keep your information for as long as necessary to fulfill
+          the purposes outlined in this privacy notice unless otherwise required
+          by law.
           <br />
           <br />
           We will only keep your personal information for as long as it is
@@ -363,44 +363,44 @@ function Index() {
           of organizational and technical security measures.
           <br />
           <br />
-          We have implemented appropriate and reasonable technical
-          and organizational security measures designed to protect the security
-          of any personal information we process. However, despite our
-          safeguards and efforts to secure your information, no electronic
-          transmission over the Internet or information storage technology can
-          be guaranteed to be 100% secure, so we cannot promise or guarantee
-          that hackers, cybercriminals, or other unauthorized third parties will
-          not be able to defeat our security and improperly collect, access,
-          steal, or modify your information. Although we will do our best to
-          protect your personal information, transmission of personal
-          information to and from our Services is at your own risk. You should
-          only access the Services within a secure environment.
+          We have implemented appropriate and reasonable technical and
+          organizational security measures designed to protect the security of
+          any personal information we process. However, despite our safeguards
+          and efforts to secure your information, no electronic transmission
+          over the Internet or information storage technology can be guaranteed
+          to be 100% secure, so we cannot promise or guarantee that hackers,
+          cybercriminals, or other unauthorized third parties will not be able
+          to defeat our security and improperly collect, access, steal, or
+          modify your information. Although we will do our best to protect your
+          personal information, transmission of personal information to and from
+          our Services is at your own risk. You should only access the Services
+          within a secure environment.
         </p>
 
         <p className="font-bold mt-6">8. WHAT ARE YOUR PRIVACY RIGHTS?</p>
         <p className="mt-3">
           In Short: You may review, change, or terminate your account at any
-          time.  
+          time.
           <br />
           <br />
           If you are located in the EEA or UK and you believe we are unlawfully
           processing your personal information, you also have the right to
           complain to your local data protection supervisory authority. You can
-          find their contact details
-          here: https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+          find their contact details here:
+          https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
           <br />
           <br />
           If you are located in Switzerland, the contact details for the data
-          protection authorities are available
-          here: https://www.edoeb.admin.ch/edoeb/en/home.html.
+          protection authorities are available here:
+          https://www.edoeb.admin.ch/edoeb/en/home.html.
           <br />
           <br />
           Withdrawing your consent: If we are relying on your consent to process
           your personal information, which may be express and/or implied consent
           depending on the applicable law, you have the right to withdraw your
           consent at any time. You can withdraw your consent at any time by
-          contacting us by using the contact details provided in the
-          section &quot;HOW CAN YOU CONTACT US ABOUT THIS NOTICE?&quot; below.
+          contacting us by using the contact details provided in the section
+          &quot;HOW CAN YOU CONTACT US ABOUT THIS NOTICE?&quot; below.
           <br />
           <br />
           However, please note that this will not affect the lawfulness of the
@@ -411,15 +411,135 @@ function Index() {
           <br />
           Opting out of marketing and promotional communications: You can
           unsubscribe from our marketing and promotional communications at any
-          time by clicking on the unsubscribe link in the emails that we
-          send, replying &quot;STOP&quot; or &quot;UNSUBSCRIBE&quot; to the SMS messages that we
-          send, or by contacting us using the details provided in the
-          section &quot;HOW CAN YOU CONTACT US ABOUT THIS NOTICE?&quot; below. You will
-          then be removed from the marketing lists. However, we may still
-          communicate with you — for example, to send you service-related
-          messages that are necessary for the administration and use of your
-          account, to respond to service requests, or for other non-marketing
-          purposes.
+          time by clicking on the unsubscribe link in the emails that we send,
+          replying &quot;STOP&quot; or &quot;UNSUBSCRIBE&quot; to the SMS
+          messages that we send, or by contacting us using the details provided
+          in the section &quot;HOW CAN YOU CONTACT US ABOUT THIS NOTICE?&quot;
+          below. You will then be removed from the marketing lists. However, we
+          may still communicate with you — for example, to send you
+          service-related messages that are necessary for the administration and
+          use of your account, to respond to service requests, or for other
+          non-marketing purposes.
+        </p>
+
+        <p className="mt-4 font-bold">Account Information</p>
+
+        <p className="mt-3">
+          If you would at any time like to review or change the information in
+          your account or terminate your account, you can:
+        </p>
+        <ul className="list-inside list-disc mt-3">
+          <li>Log in to your account settings and update your user account.</li>
+          <li>Contact us using the contact information provided.</li>
+        </ul>
+        <p className="mt-3">
+          Upon your request to terminate your account, we will deactivate or
+          delete your account and information from our active databases.
+          However, we may retain some information in our files to prevent fraud,
+          troubleshoot problems, assist with any investigations, enforce our
+          legal terms and/or comply with applicable legal requirements.
+          <br />
+          <br />
+          Cookies and similar technologies: Most Web browsers are set to accept
+          cookies by default. If you prefer, you can usually choose to set your
+          browser to remove cookies and to reject cookies. If you choose to
+          remove cookies or reject cookies, this could affect certain features
+          or services of our Services. To opt out of interest-based advertising
+          by advertisers on our Services
+          visit http://www.aboutads.info/choices/.
+          <br />
+          <br />
+          If you have questions or comments about your privacy rights, you may
+          email us at kukudiary@gmail.com.
+        </p>
+
+        <p className="font-bold mt-6">9. CONTROLS FOR DO-NOT-TRACK FEATURES</p>
+        <p className="mt-3">
+          Most web browsers and some mobile operating systems and mobile
+          applications include a Do-Not-Track (&quot;DNT&quot;) feature or setting you can
+          activate to signal your privacy preference not to have data about your
+          online browsing activities monitored and collected. At this stage no
+          uniform technology standard for recognizing and implementing DNT
+          signals has been finalized. As such, we do not currently respond to
+          DNT browser signals or any other mechanism that automatically
+          communicates your choice not to be tracked online. If a standard for
+          online tracking is adopted that we must follow in the future, we will
+          inform you about that practice in a revised version of this privacy
+          notice.
+        </p>
+
+        <p className="font-bold mt-6">
+          10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?{" "}
+        </p>
+        <p className="mt-3">
+          In Short: Yes, if you are a resident of California, you are granted
+          specific rights regarding access to your personal information.
+          <br />
+          <br />
+          California Civil Code Section 1798.83, also known as the &quot;Shine The
+          Light&quot; law, permits our users who are California residents to request
+          and obtain from us, once a year and free of charge, information about
+          categories of personal information (if any) we disclosed to third
+          parties for direct marketing purposes and the names and addresses of
+          all third parties with which we shared personal information in the
+          immediately preceding calendar year. If you are a California resident
+          and would like to make such a request, please submit your request in
+          writing to us using the contact information provided below.
+          <br />
+          <br />
+          If you are under 18 years of age, reside in California, and have a
+          registered account with Services, you have the right to request
+          removal of unwanted data that you publicly post on the Services. To
+          request removal of such data, please contact us using the contact
+          information provided below and include the email address associated
+          with your account and a statement that you reside in California. We
+          will make sure the data is not publicly displayed on the Services, but
+          please be aware that the data may not be completely or comprehensively
+          removed from all our systems (e.g., backups, etc.).
+        </p>
+
+        <p className="font-bold mt-6">11. DO WE MAKE UPDATES TO THIS NOTICE?</p>
+        <p className="mt-3">
+          In Short: Yes, we will update this notice as necessary to stay
+          compliant with relevant laws.
+          <br />
+          <br />
+          We may update this privacy notice from time to time. The updated
+          version will be indicated by an updated &quot;Revised&quot; date and the updated
+          version will be effective as soon as it is accessible. If we make
+          material changes to this privacy notice, we may notify you either by
+          prominently posting a notice of such changes or by directly sending
+          you a notification. We encourage you to review this privacy notice
+          frequently to be informed of how we are protecting your information.
+        </p>
+
+        <p className="font-bold mt-6">
+          12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?{" "}
+        </p>
+        <p className="mt-3">
+          If you have questions or comments about this notice, you may email us
+          at kukudiary@gmail.com or by post to:
+          <br />
+          <br />
+          Kuku Diary Limited
+          <br />
+          Kijitonyama, Dar es Salaam, Tanzania
+          <br />
+          DSM, Dar es Salam 10000
+          <br />
+          Tanzania
+        </p>
+
+        <p className="font-bold mt-6">
+          13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM
+          YOU?{" "}
+        </p>
+        <p className="mt-3">
+          Based on the applicable laws of your country, you may have the right
+          to request access to the personal information we collect from you,
+          change that information, or delete it. To request to review, update,
+          or delete your personal information, please submit a request form by
+          clicking here.
         </p>
       </div>
     </Layout>
